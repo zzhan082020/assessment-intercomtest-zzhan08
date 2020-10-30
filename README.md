@@ -18,7 +18,7 @@
 6. use `npm run start` start application in production mode
 7. use `npm run test:watch` watch test in watching mode
 8. use `npm run coverage` test analysis
-
+9. use `npm t` run tests
 
 ## EXAMPLES:
 ###### npm run build
