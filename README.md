@@ -2,7 +2,7 @@
 
 ## Config file
 1. locate in ./src/configuration/config.json
-2. include configuration of external service url, API key and so on
+2. include configuration of office gps accordinates and so on
 3. include server port, log configuration
 
 ## Dependancy installation
